@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: white;
+    
+    }
+    .card{
+        background-color: #333;
+        color: white;
+      
+    }
+    
+    
+    
+    /*============== footer =====================*/
+    .covid3{
+        
+        background:  linear-gradient(rgba(19, 18, 24, 0.9),rgba(25, 23, 34, 0.9))  ,url("https://media.istockphoto.com/vectors/vector-sci-fi-hexagonal-futuristic-pattern-innovation-future-vector-id1219016201?k=20&m=1219016201&s=170667a&w=0&h=jxo0Cvpx77PJdrdJ_9bW66A16TyhIgx658jR3iG-5ao=");
+        background-size: 100% 100%;
+      
+    }
+    .covid3 a{
+        text-decoration: none;
+        color: rgb(204, 183, 183);
+    }
+    /**==========================*/
+    #count{
+        border-radius:50%;
+    
+    position: relative;
+    top:-10px;
+    left: -10px;
+    }
+    #count1{
+        border-radius:150px;
+    position: absolute;
+    right:10px;
+    top: auto;
+    
+    
+    }
